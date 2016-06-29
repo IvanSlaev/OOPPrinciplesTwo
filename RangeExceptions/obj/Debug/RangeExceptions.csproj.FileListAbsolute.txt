@@ -1,0 +1,6 @@
+E:\Dropbox\VS C# projects\CSharp OOP\OOP PrinciplesPartTwo\RangeExceptions\bin\Debug\RangeExceptions.exe.config
+E:\Dropbox\VS C# projects\CSharp OOP\OOP PrinciplesPartTwo\RangeExceptions\bin\Debug\RangeExceptions.exe
+E:\Dropbox\VS C# projects\CSharp OOP\OOP PrinciplesPartTwo\RangeExceptions\bin\Debug\RangeExceptions.pdb
+E:\Dropbox\VS C# projects\CSharp OOP\OOP PrinciplesPartTwo\RangeExceptions\obj\Debug\RangeExceptions.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS C# projects\CSharp OOP\OOP PrinciplesPartTwo\RangeExceptions\obj\Debug\RangeExceptions.exe
+E:\Dropbox\VS C# projects\CSharp OOP\OOP PrinciplesPartTwo\RangeExceptions\obj\Debug\RangeExceptions.pdb

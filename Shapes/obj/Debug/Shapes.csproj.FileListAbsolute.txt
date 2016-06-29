@@ -1,0 +1,6 @@
+E:\Dropbox\VS C# projects\CSharp OOP\OOP PrinciplesPartTwo\Shapes\bin\Debug\Shapes.exe.config
+E:\Dropbox\VS C# projects\CSharp OOP\OOP PrinciplesPartTwo\Shapes\bin\Debug\Shapes.exe
+E:\Dropbox\VS C# projects\CSharp OOP\OOP PrinciplesPartTwo\Shapes\bin\Debug\Shapes.pdb
+E:\Dropbox\VS C# projects\CSharp OOP\OOP PrinciplesPartTwo\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS C# projects\CSharp OOP\OOP PrinciplesPartTwo\Shapes\obj\Debug\Shapes.exe
+E:\Dropbox\VS C# projects\CSharp OOP\OOP PrinciplesPartTwo\Shapes\obj\Debug\Shapes.pdb
